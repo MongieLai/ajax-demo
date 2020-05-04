@@ -1,0 +1,6 @@
+<note>
+<to>George</to>
+<from>John</from>
+<heading>Reminder</heading>
+<body><p>这是xml请求到到xml文件里p标签到内容</p></body>
+</note>
